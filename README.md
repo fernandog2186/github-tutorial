@@ -34,7 +34,7 @@ to set up a repository all you need to do is follow these steps.
    4. after you initialize your directory it is now a repository able to use git. 
    5. now make a file using `touch` 
    6. after you make the file you can use `git add .`
-   7. then you can use `git commit -m`, after the -m add quotations to add a message.
+   7. then you can use `git commit -m`, after the -m add quotations to add a message.  
 and that's it! you've now set up a repository.
 
 ---
